@@ -1,0 +1,2 @@
+In addition to their low power consumption and high speed, CMOS circuits have several other advantages.
+In conclusion, CMOS digital integrated circuits are a widely-used type of computer chip that offer low power consumption, high speed, and other benefits.
